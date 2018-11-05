@@ -1,0 +1,9 @@
+D:\softwaredaima\c#\ImageProcess2\ImageProcess2\bin\Debug\ImageProcess2.exe.config
+D:\softwaredaima\c#\ImageProcess2\ImageProcess2\bin\Debug\ImageProcess2.exe
+D:\softwaredaima\c#\ImageProcess2\ImageProcess2\bin\Debug\ImageProcess2.pdb
+D:\softwaredaima\c#\ImageProcess2\ImageProcess2\obj\Debug\ImageProcess2.csprojResolveAssemblyReference.cache
+D:\softwaredaima\c#\ImageProcess2\ImageProcess2\obj\Debug\ImageProcess2.Form1.resources
+D:\softwaredaima\c#\ImageProcess2\ImageProcess2\obj\Debug\ImageProcess2.Properties.Resources.resources
+D:\softwaredaima\c#\ImageProcess2\ImageProcess2\obj\Debug\ImageProcess2.csproj.GenerateResource.Cache
+D:\softwaredaima\c#\ImageProcess2\ImageProcess2\obj\Debug\ImageProcess2.exe
+D:\softwaredaima\c#\ImageProcess2\ImageProcess2\obj\Debug\ImageProcess2.pdb
